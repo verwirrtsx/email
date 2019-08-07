@@ -1,0 +1,3 @@
+第一步：使用composer安装phpmailer
+composer require phpmailer/phpmailer
+第二 ：添加common
